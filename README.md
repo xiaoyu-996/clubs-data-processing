@@ -301,7 +301,7 @@ A: 在 `utils/normalizer.py` 的 `YearFormatter.YEAR_FIX_RULES` 中添加新的�
 
 ## 👥 贡献者
 
-- 原代码开发者
+- 原代码开发者：xiaoyu998
 - 重构优化：AI Assistant
 
 ---
